@@ -12,8 +12,8 @@ Createing Window -
 local Window = Library:CreateWindow({
     Title = 'Example menu',
     Center = true,
-    AutoShow = true,
-    TabPadding = 8
+    AutoShow = false,
+    TabPadding = 3
 })
 ```
 Watermark and Notifications - 

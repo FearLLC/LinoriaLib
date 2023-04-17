@@ -1,4 +1,4 @@
-# LinoraLib :)
+# LinoraLib Docs | By SEASONAL#8280 :)
 Loading - 
 ```lua
 local repo = 'https://raw.githubusercontent.com/FearLLC/LinoriaLib/main/'

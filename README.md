@@ -158,7 +158,6 @@ LeftGroupBox:AddLabel('Keybind'):AddKeyPicker('KeyPicker', {
 Create Settings - 
 ```lua
 Library:OnUnload(function()
-    print('Unloaded!')
     Library.Unloaded = true
 end)
 

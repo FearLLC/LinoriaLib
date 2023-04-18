@@ -157,10 +157,6 @@ LeftGroupBox:AddLabel('Keybind'):AddKeyPicker('KeyPicker', {
 ```
 Create Settings - 
 ```lua
-Library:OnUnload(function()
-    Library.Unloaded = true
-end)
-
 -- UI Settings
 local MenuGroup = Tabs['UI Settings']:AddLeftGroupbox('Menu')
 
